@@ -1,0 +1,6 @@
+.deps/
+.tools/
+projects/
+build/
+bin/
+*.log
